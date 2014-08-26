@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/inprogress/swf
+END
+SWFPrinter.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/inprogress/swf/SWFPrinter.as
+END
+AnimationCollector.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/inprogress/swf/AnimationCollector.as
+END
+ShapeCollector.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/inprogress/swf/ShapeCollector.as
+END
+SepiaConverter.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/inprogress/swf/SepiaConverter.as
+END
+ShowFrameCounter.as
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/inprogress/swf/ShowFrameCounter.as
+END

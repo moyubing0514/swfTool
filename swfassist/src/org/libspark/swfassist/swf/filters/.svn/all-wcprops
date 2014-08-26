@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/filters
+END
+GlowFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/filters/GlowFilter.as
+END
+DropShadowFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/filters/DropShadowFilter.as
+END
+FilterList.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/filters/FilterList.as
+END
+GradientBevelFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/filters/GradientBevelFilter.as
+END
+FilterConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/filters/FilterConstants.as
+END
+BevelFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/filters/BevelFilter.as
+END
+ConvolutionFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/filters/ConvolutionFilter.as
+END
+Filter.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/filters/Filter.as
+END
+BlendModeConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/filters/BlendModeConstants.as
+END
+AbstractFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/filters/AbstractFilter.as
+END
+ColorMatrixFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/filters/ColorMatrixFilter.as
+END
+BlurFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/filters/BlurFilter.as
+END
+GradientGlowFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/filters/GradientGlowFilter.as
+END

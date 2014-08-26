@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/io
+END
+ByteArrayInputStream.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/io/ByteArrayInputStream.as
+END
+ByteArrayOutputStream.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/io/ByteArrayOutputStream.as
+END
+DataInput.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/io/DataInput.as
+END
+DataOutput.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/io/DataOutput.as
+END

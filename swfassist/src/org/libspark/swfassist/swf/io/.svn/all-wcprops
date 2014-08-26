@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/io
+END
+ReadingContext.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/io/ReadingContext.as
+END
+SWFReader.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/io/SWFReader.as
+END
+WritingContext.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/io/WritingContext.as
+END
+SWFWriter.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/io/SWFWriter.as
+END

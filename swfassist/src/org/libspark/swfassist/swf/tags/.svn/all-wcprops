@@ -1,0 +1,485 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags
+END
+EnableDebugger2.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/EnableDebugger2.as
+END
+AbstractTagVisitor.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/AbstractTagVisitor.as
+END
+SoundSizeConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/SoundSizeConstants.as
+END
+Metadata.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/Metadata.as
+END
+DefineSprite.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineSprite.as
+END
+DefineText2.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineText2.as
+END
+CodecIdConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/CodecIdConstants.as
+END
+StartSound2.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/StartSound2.as
+END
+CSMGridFitConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/CSMGridFitConstants.as
+END
+FrameLabel.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/FrameLabel.as
+END
+SymbolClass.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/SymbolClass.as
+END
+EnableDebugger.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/EnableDebugger.as
+END
+DefineShape3.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineShape3.as
+END
+DefineButtonSound.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineButtonSound.as
+END
+DefineText.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineText.as
+END
+DoAction.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DoAction.as
+END
+ExportAssets.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/ExportAssets.as
+END
+DefineBitsJPEG3.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineBitsJPEG3.as
+END
+DefineButtonCxform.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineButtonCxform.as
+END
+DoABC.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DoABC.as
+END
+DeblockingFlagsConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DeblockingFlagsConstants.as
+END
+DefineBits.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineBits.as
+END
+TagVisitorAcceptor.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/TagVisitorAcceptor.as
+END
+DefineFontInfo2.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineFontInfo2.as
+END
+SoundStreamBlock.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/SoundStreamBlock.as
+END
+BitmapFormatConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/BitmapFormatConstants.as
+END
+RemoveObject.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/RemoveObject.as
+END
+DoInitAction.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DoInitAction.as
+END
+FileAttributes.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/FileAttributes.as
+END
+DefineButton.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineButton.as
+END
+SoundTypeConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/SoundTypeConstants.as
+END
+TagVisitor.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/TagVisitor.as
+END
+TextAlignConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/TextAlignConstants.as
+END
+DefineShape2.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineShape2.as
+END
+DefineVideoStream.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineVideoStream.as
+END
+ImportAssets.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/ImportAssets.as
+END
+AbstractTag.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/AbstractTag.as
+END
+DefineScalingGrid.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineScalingGrid.as
+END
+TagCodeConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/TagCodeConstants.as
+END
+DefineSound.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineSound.as
+END
+DefineBitsJPEG2.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineBitsJPEG2.as
+END
+DefineBitsLossless.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineBitsLossless.as
+END
+StartSound.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/StartSound.as
+END
+RemoveObject2.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/RemoveObject2.as
+END
+SoundStreamHead2.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/SoundStreamHead2.as
+END
+SetTabIndex.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/SetTabIndex.as
+END
+DefineShape.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineShape.as
+END
+DefineFontAlignZones.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineFontAlignZones.as
+END
+JPEGTables.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/JPEGTables.as
+END
+Protect.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/Protect.as
+END
+VideoFrame.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/VideoFrame.as
+END
+DefineMorphShape.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineMorphShape.as
+END
+DefineFont.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineFont.as
+END
+DefineFontName.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineFontName.as
+END
+DefineBitsLossless2.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineBitsLossless2.as
+END
+DefineBinaryData.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineBinaryData.as
+END
+PlaceObject3.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/PlaceObject3.as
+END
+SoundFormatConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/SoundFormatConstants.as
+END
+SoundRateConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/SoundRateConstants.as
+END
+DefineFont3.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineFont3.as
+END
+DefineEditText.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineEditText.as
+END
+End.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/End.as
+END
+CSMTextSettings.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/CSMTextSettings.as
+END
+CSMTableHintConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/CSMTableHintConstants.as
+END
+Tag.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/Tag.as
+END
+ImportAssets2.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/ImportAssets2.as
+END
+ScriptLimits.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/ScriptLimits.as
+END
+SoundStreamHead.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/SoundStreamHead.as
+END
+SetBackgroundColor.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/SetBackgroundColor.as
+END
+ShowFrame.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/ShowFrame.as
+END
+PlaceObject2.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/PlaceObject2.as
+END
+DefineFontInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineFontInfo.as
+END
+Tags.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/Tags.as
+END
+DefineShape4.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineShape4.as
+END
+Unknown.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/Unknown.as
+END
+DefineSceneAndFrameLabelData.as
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineSceneAndFrameLabelData.as
+END
+DefineFont2.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineFont2.as
+END
+DefineMorphShape2.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineMorphShape2.as
+END
+DefineButton2.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/DefineButton2.as
+END
+PlaceObject.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/tags/PlaceObject.as
+END

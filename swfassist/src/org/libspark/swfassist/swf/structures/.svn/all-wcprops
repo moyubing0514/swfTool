@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures
+END
+ShapeWithStyle.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/ShapeWithStyle.as
+END
+MorphFillStyle.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/MorphFillStyle.as
+END
+SoundDataMP3Stream.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/SoundDataMP3Stream.as
+END
+MorphLineStyle.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/MorphLineStyle.as
+END
+TextRecord.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/TextRecord.as
+END
+FrameLabelData.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/FrameLabelData.as
+END
+SoundEnvelope.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/SoundEnvelope.as
+END
+GradientRecord.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/GradientRecord.as
+END
+CXForm.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/CXForm.as
+END
+CXFormWithAlpha.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/CXFormWithAlpha.as
+END
+MorphGradient.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/MorphGradient.as
+END
+ClipEventFlags.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/ClipEventFlags.as
+END
+ClipActions.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/ClipActions.as
+END
+ButtonRecord.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/ButtonRecord.as
+END
+CurvedEdgeRecord.as
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/CurvedEdgeRecord.as
+END
+JoinStyleConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/JoinStyleConstants.as
+END
+Asset.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/Asset.as
+END
+SpreadModeConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/SpreadModeConstants.as
+END
+SoundData.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/SoundData.as
+END
+AbstractShapeRecord.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/AbstractShapeRecord.as
+END
+ClipActionRecord.as
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/ClipActionRecord.as
+END
+SoundDataADPCM.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/SoundDataADPCM.as
+END
+SoundDataNellymoser.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/SoundDataNellymoser.as
+END
+KerningRecord.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/KerningRecord.as
+END
+Gradient.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/Gradient.as
+END
+ShapeRecordTypeConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/ShapeRecordTypeConstants.as
+END
+ADPCMStereoPacket.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/ADPCMStereoPacket.as
+END
+SWF.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/SWF.as
+END
+Shape.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/Shape.as
+END
+Matrix.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/Matrix.as
+END
+GlyphEntry.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/GlyphEntry.as
+END
+FillStyleTypeConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/FillStyleTypeConstants.as
+END
+MorphFillStyleArray.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/MorphFillStyleArray.as
+END
+ButtonCondAction.as
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/ButtonCondAction.as
+END
+LanguageCode.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/LanguageCode.as
+END
+Header.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/Header.as
+END
+Rect.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/Rect.as
+END
+ShapeRecord.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/ShapeRecord.as
+END
+MorphLineStyle2.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/MorphLineStyle2.as
+END
+SoundDataMP3.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/SoundDataMP3.as
+END
+SoundInfo.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/SoundInfo.as
+END
+StyleChangeRecord.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/StyleChangeRecord.as
+END
+FillStyleArray.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/FillStyleArray.as
+END
+CondKeyPressConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/CondKeyPressConstants.as
+END
+FillStyle.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/FillStyle.as
+END
+LineStyle.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/LineStyle.as
+END
+StraightEdgeRecord.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/StraightEdgeRecord.as
+END
+ZoneRecord.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/ZoneRecord.as
+END
+CapStyleConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/CapStyleConstants.as
+END
+SceneData.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/SceneData.as
+END
+InterpolationModeConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/InterpolationModeConstants.as
+END
+LineStyle2.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/LineStyle2.as
+END
+MorphLineStyles.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/MorphLineStyles.as
+END
+MorphGradientRecord.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/MorphGradientRecord.as
+END
+FocalGradient.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/FocalGradient.as
+END
+ZoneData.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/ZoneData.as
+END
+ADPCMMonoPacket.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/ADPCMMonoPacket.as
+END
+AbstractSoundData.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/AbstractSoundData.as
+END
+LineStyleArray.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/LineStyleArray.as
+END
+SoundDataUncompressed.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/SoundDataUncompressed.as
+END
+RGB.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/RGB.as
+END
+RGBA.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/RGBA.as
+END
+ARGB.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/291/as3/swfassist/tags/alpha/src/org/libspark/swfassist/swf/structures/ARGB.as
+END
